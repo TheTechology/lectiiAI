@@ -61,7 +61,7 @@ Design, dezvoltare și concept AI pentru educație: Dumitru Marian
 
 ## 📬 Contact
 
-📧 contact@grupulverde.ro  
+📧 office@grupulverde.ro  
 📍 Adjud, Vrancea, România
 
 ---
