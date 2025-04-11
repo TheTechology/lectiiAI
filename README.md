@@ -109,7 +109,7 @@ Proiectul se adresează:
 
 ### 🤝 Parteneriate și Colaborări
 
-Dacă ești interesat să susții sau să extinzi acest proiect în școala ta sau în comunitatea ta, scrie-ne la: **contact@grupulverde.ro**
+Dacă ești interesat să susții sau să extinzi acest proiect în școala ta sau în comunitatea ta, scrie-ne la: **office@grupulverde.ro**
 
 
 
