@@ -29,11 +29,6 @@
   --space-10: 4rem;
   --space-12: 6rem;
   --panel-padding: 5%;
-  --transition-fast: 0.2s ease;
-  --transition-medium: 0.3s ease;
-  --transition-slow: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
-  --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 * {
@@ -116,18 +111,23 @@ canvas {
   pointer-events: none;
 }
 
+.btn-container {
+  margin-top: var(--space-4);
+}
+
 .btn-inscriere {
   display: inline-block;
   background-color: var(--color-accent);
   color: #fff;
-  padding: var(--space-3) var(--space-5);
-  font-size: var(--text-base);
+  padding: 0.8rem 2rem;
+  font-size: 1rem;
   font-weight: 600;
   border: none;
   border-radius: 8px;
   text-decoration: none;
   transition: background-color 0.3s ease;
-  margin-top: var(--space-4);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  text-align: center;
 }
 
 .btn-inscriere:hover {
@@ -135,17 +135,14 @@ canvas {
 }
 
 @media (max-width: 768px) {
-  .title {
-    font-size: clamp(4rem, 12vw, 8rem);
-  }
-
-  .description {
-    font-size: var(--text-lg);
-  }
-
-  .footer {
-    width: 100%;
+  .section-inner {
     text-align: center;
-    left: 0;
+  }
+
+  .btn-inscriere {
+    display: block;
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 1rem 1.5rem;
   }
 }
