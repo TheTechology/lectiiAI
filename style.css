@@ -7,7 +7,6 @@
   --color-text-muted: rgba(245, 245, 245, 0.7);
   --font-primary: "Inter", sans-serif;
   --font-display: "Boldonse", serif;
-  --text-base: 1rem;
   --space-4: 1rem;
   --panel-padding: 5%;
 }
@@ -68,13 +67,15 @@ canvas {
 
 .description {
   font-family: var(--font-primary);
-  font-size: clamp(1rem, 2.5vw, 1.3rem);
-  line-height: 1.7;
-  max-width: 700px;
+  font-size: clamp(1.1rem, 3.5vw, 1.4rem); /* Îmbunătățit pentru mobil */
+  line-height: 1.75;
+  max-width: 720px;
   color: var(--color-text-muted);
   font-weight: 300;
   opacity: 0;
   transform: translateY(30px);
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .btn-container {
