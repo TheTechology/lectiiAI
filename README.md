@@ -1,115 +1,100 @@
-# 🌱 Asociația Grupul Verde – Curs Interactiv AI pentru Tineri
 
-Acest proiect web este o prezentare interactivă destinată introducerii tinerilor în lumea inteligenței artificiale (AI), realizat de **Asociația Grupul Verde**. Pagina combină o estetică modernă cu efecte 3D captivante pentru a atrage și educa într-un mod prietenos.
+# 🤖 Lecții AI pentru Tineri – Asociația Grupul Verde
 
-## 🔍 Scopul Proiectului
+![Preview](https://github.com/TheTechology/lectiiAI/raw/main/Captură%20de%20ecran%20din%202025-04-11%20la%2014.11.16.png)
 
-Promovarea educației digitale și a utilizării AI în rândul tinerilor. Participanții sunt invitați să se înscrie la un curs gratuit care explorează modul în care AI poate fi un instrument de învățare, creativitate și inovație.
+Un proiect educațional interactiv care introduce tinerii în lumea fascinantă a **Inteligenței Artificiale (AI)**, dezvoltat de **Asociația Grupul Verde**.
 
----
-
-## 🧠 Tehnologii Utilizate
-
-- **HTML5** – Structura paginii
-- **CSS3 / Variabile CSS** – Design modern și responsive
-- **JavaScript (ES6)** – Efecte dinamice și interactive
-- **Three.js** – Grafică 3D în timp real
-- **GSAP + ScrollTrigger** – Animații fluide pe scroll
-- **CDN-uri externe** pentru:
-  - `three.js` (efecte 3D)
-  - `gsap` (animații)
-  - `normalize.css` (resetare stiluri browser)
+Scopul este de a face AI accesibil și captivant pentru elevi, prin lecții simple, exemple practice și efecte vizuale impresionante.
 
 ---
 
-## 🚀 Funcționalități Cheie
+## 🎯 Obiective
 
-- ✅ Interfață responsive și modernă
-- ✅ Cub 3D animat cu shader personalizat
-- ✅ Particule spațiale cu efecte interactive (click = animații)
-- ✅ Animații la scroll pentru secțiunile de conținut
-- ✅ Text animat și efecte de parallax
-- ✅ Efecte vizuale de impact pentru cursuri și promovare AI
+- Familiarizarea elevilor cu bazele inteligenței artificiale
+- Încurajarea gândirii critice și creative în context digital
+- Promovarea învățării interactive, prin efecte vizuale 3D și animații
+- Crearea unei comunități de tineri interesați de tech & educație
 
 ---
 
-## 🔧 Cum Rulezi Local
+## 🌐 Live Demo
 
-1. Descarcă fișierele:
-   - `index.html`
-   - `style.css`
-   - `script.js`
-
-2. Asigură-te că toate fișierele sunt în același director.
-
-3. Deschide `index.html` într-un browser modern (Chrome/Firefox/Edge).
+Poți vizualiza proiectul rulând `index.html` local într-un browser modern (Chrome, Firefox, Edge).
 
 ---
 
-## 📸 Capturi de Ecran (opțional)
+## 🖼️ Previzualizare
 
-> Adaugă capturi de ecran pentru a prezenta interfața și efectele 3D.
+> ![Preview](https://github.com/TheTechology/lectiiAI/raw/main/Captură%20de%20ecran%20din%202025-04-11%20la%2014.11.16.png)
 
 ---
 
-## 📣 Credite
+## 🛠️ Tehnologii folosite
 
-Proiect creat de [Asociația Grupul Verde](https://grupulverde.ro)  
-Design, dezvoltare și concept AI pentru educație: Dumitru Marian
+- `HTML5` – Structura conținutului
+- `CSS3` – Design responsive, variabile și media queries
+- `JavaScript` – Funcționalități și animații
+- `GSAP` (opțional) – Animații fluide pe scroll
+- `Meta SEO` și `Open Graph` – Optimizare pentru rețele sociale și Google
+- **Fonturi Google**:
+  - [`Space Grotesk`](https://fonts.google.com/specimen/Space+Grotesk) – pentru titluri moderne
+  - [`Inter`](https://fonts.google.com/specimen/Inter) – pentru conținut clar și aerisit
+
+---
+
+## 💡 Funcționalități
+
+- ✅ Interfață complet responsive (mobil, tabletă, desktop)
+- ✅ Butoane de înscriere pe email cu mesaj automat precompletat
+- ✅ Meta SEO complet pentru Google, Facebook, Twitter
+- ✅ Previzualizare socială cu imagine integrată din GitHub
+
+---
+
+## ✉️ Înscriere
+
+Apasă pe butonul **"Înscrie-te acum"** din pagină pentru a trimite un email automat către:
+
+**📩 marian.dumitru@grupulverde.ro**  
+cu subiectul: _„Sunt interesat să mă înscriu la curs demonstrativ de AI”_
+
+---
+
+## 📁 Structura proiectului
+
+```text
+📂 lectiiAI
+├── index.html           # Pagina principală cu secțiuni interactive
+├── style.css            # Design modern, responsive și fonturi
+├── script.js            # Efecte (opțional)
+├── README.md            # Documentația completă
+└── Captură ecran.png    # Imagine previzualizare GitHub/social media
+```
 
 ---
 
 ## 📬 Contact
 
-📧 office@grupulverde.ro  
-📍 Adjud, Vrancea, România
+**Asociația Grupul Verde**  
+📍 Adjud, Vrancea, România  
+📧 Email: office@grupulverde.ro  
+🌐 Website: [www.grupulverde.ro](https://grupulverde.ro)
 
 ---
 
-## 🛡️ Licență
+## 📄 Licență
 
-Acest proiect este distribuit sub licența MIT.  
-Poți folosi, modifica și distribui codul cu menționarea autorului.
-
-## ℹ️ Despre Proiect
-
-**„Fă primul pas în lumea digitală cu AI”** este o inițiativă educațională lansată de **Asociația Grupul Verde** cu scopul de a familiariza tinerii din România cu noțiunile de bază ale inteligenței artificiale, într-un mod prietenos, vizual și interactiv.
-
-### 🎯 Obiectivele proiectului:
-
-- ✅ Să demistifice conceptele de AI și să le facă accesibile tinerilor
-- ✅ Să creeze un context modern de învățare prin interactivitate și animații
-- ✅ Să încurajeze utilizarea tehnologiei în educație, creativitate și rezolvarea problemelor
-- ✅ Să formeze o comunitate de tineri curioși și implicați în inovație digitală
-
-### 🧑‍🏫 Pentru cine este acest proiect?
-
-Proiectul se adresează:
-- elevilor din ciclul gimnazial și liceal
-- profesorilor interesați de metode moderne de predare
-- ONG-urilor și inițiativelor educaționale
-- părinților care vor să ofere copiilor un viitor digital responsabil
+Acest proiect este oferit sub licența [MIT License](LICENSE).  
+Poți folosi, modifica și distribui liber cu menționarea autorului.
 
 ---
 
-### 🌐 Ce oferim:
+## 🙌 Susține inițiativa
 
-- O platformă web prietenoasă și captivantă
-- Experiențe vizuale impresionante (efecte 3D, animații, particule interactive)
-- Informații clare despre ce este și ce poate face AI
-- Un formular de înscriere la un curs gratuit despre AI în educație
+Dacă dorești să promovezi educația digitală în școala ta sau în comunitatea ta, scrie-ne la:  
+📧 **office@grupulverde.ro**
 
 ---
 
-### 👨‍💻 Cine suntem?
-
-**Asociația Grupul Verde** este o comunitate activă de mentori, dezvoltatori și voluntari care promovează educația digitală, sustenabilitatea și inovația socială. Credem că viitorul începe cu educația și că fiecare copil merită o șansă să înțeleagă și să folosească tehnologia responsabil.
-
----
-
-### 🤝 Parteneriate și Colaborări
-
-Dacă ești interesat să susții sau să extinzi acest proiect în școala ta sau în comunitatea ta, scrie-ne la: **office@grupulverde.ro**
-
-
-
+**Creat cu pasiune de Asociația Grupul Verde ❤️ pentru generația digitală.**
